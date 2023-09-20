@@ -36,7 +36,7 @@
 #define HAVE_GETOPT_LONG 1
 
 /* Define if the GNU gettext() function is already present or preinstalled. */
-#define HAVE_GETTEXT 1
+// #define HAVE_GETTEXT 1
 
 /* Define if you have the iconv() function and it works. */
 /* #undef HAVE_ICONV */
@@ -204,7 +204,7 @@
 
 /* Define if you want TRE to use alloca() instead of malloc() when allocating
    memory needed for regexec operations. */
-#define TRE_USE_ALLOCA 1
+// #define TRE_USE_ALLOCA 1
 
 /* Define to include the system regex.h from TRE regex.h */
 /* #undef TRE_USE_SYSTEM_REGEX_H */
