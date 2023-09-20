@@ -6,6 +6,8 @@
 
 */
 
+#include "../local_includes/tre-config.h"
+
 #ifndef TRE_INTERNAL_H
 #define TRE_INTERNAL_H 1
 
